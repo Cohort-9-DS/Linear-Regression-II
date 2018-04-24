@@ -3,8 +3,8 @@ Classical Assumptions
 
 For TIPS dataset 
 
-Number of cases: 244
-Number of variables: 8
+- Number of cases: 244
+- Number of variables: 8
 
 Description: Food servers’ tips in restaurants may be influenced by many
 factors, including the nature of the restaurant, size of the party, and table
