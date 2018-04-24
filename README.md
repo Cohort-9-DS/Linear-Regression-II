@@ -23,11 +23,11 @@ work schedule.
 
 **Variable Explanation**
 
-obs: Observation number
-totbill: Total bill (cost of the meal), including tax, in US dollars
-tip: Tip (gratuity) in US dollars
-sex :Sex of person paying for the meal (0=male, 1=female)
-smoker: Smoker in party? (0=No, 1=Yes)
-day: 3=Thur, 4=Fri, 5=Sat, 6=Sun
-time: 0=Day, 1=Night
-size: Size of the party
+- obs: Observation number
+- totbill: Total bill (cost of the meal), including tax, in US dollars
+- tip: Tip (gratuity) in US dollars
+- sex :Sex of person paying for the meal (0=male, 1=female)
+- smoker: Smoker in party? (0=No, 1=Yes)
+- day: 3=Thur, 4=Fri, 5=Sat, 6=Sun
+- time: 0=Day, 1=Night
+- size: Size of the party
